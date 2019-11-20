@@ -1,0 +1,10 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: coursework.aux
+The style file: agsm.bst
+I couldn't open database file myreferences.bib
+---line 3 of file coursework.aux
+ : \bibdata{myreferences
+ :                      }
+I'm skipping whatever remains of this command
+I found no \citation commands---while reading file coursework.aux
+I found no database files---while reading file coursework.aux
+(There were 3 error messages)
